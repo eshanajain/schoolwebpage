@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+#latestnews{
+    font-size: 40px;
+font-family: cursive;
+}
+#pricipalsdesk{
+    font-size: 40px;
+    font-family: fantasy;
+}
+p{
+    font-size: 20px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
